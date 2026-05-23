@@ -21,7 +21,7 @@ The VDM plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="VDM/assets/images/VDM.png" alt="VDM Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">VDM</h1>
-      <h3 style="margin: 0;">Get Signs</h3>
+      <h3 style="margin: 0;">Get VDM</h3>
     </td>
   </tr>
 </table>
