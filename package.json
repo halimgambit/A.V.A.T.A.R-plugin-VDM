@@ -1,0 +1,12 @@
+{
+    "name": "VDM",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin VDM for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "VDM"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }

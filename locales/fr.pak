@@ -1,0 +1,12 @@
+{
+  "plugin": {
+    "from": "from"
+  },
+
+  "speech": {
+    "vdm": "Voici une vie de merde. $$",
+    "errorHttp": "Erreur lors du chargement de la blague",
+    "errorEmpty": "Aucune VDM trouvée",
+    "errorAccess": "Je n'arrive pas à accéder aux blagues en ce moment."
+  }
+}

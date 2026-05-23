@@ -1,0 +1,12 @@
+{
+"plugin": {
+"from": "from"
+},
+
+"speech": {
+"vdm": "Here's a shitty life. $$",
+"errorHttp": "Error loading joke",
+"errorEmpty": "No VDM found",
+"errorAccess": "I can't access the jokes right now."
+}
+}
