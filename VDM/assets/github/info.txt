@@ -1,0 +1,4 @@
+VDM
+Vous permet de consulter les dernières anecdotes du site Vie de Merde à l'aide de votre voix.
+Affichez ou écoutez rapidement une anecdote aléatoire sur n'importe quel client A.V.A.T.A.R compatible.
+Il permet également de parcourir les différentes catégories et de partager un moment de détente grâce aux commandes vocales A.V.A.T.A.R.
