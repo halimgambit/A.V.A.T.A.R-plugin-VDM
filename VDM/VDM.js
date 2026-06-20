@@ -15,7 +15,7 @@ export async function action(data, callback) {
             getVdm: () => getVdm(data.client, L)
         };
 
-        info("VDM:", data.action.command, L.get("plugin.from"), data.client);
+        info("VDM:", data.action.command, "from", data.client);
 
        if (tblActions[data.action.command]) {
             await tblActions[data.action.command]();
