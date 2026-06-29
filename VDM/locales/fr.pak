@@ -1,8 +1,4 @@
 {
-  "plugin": {
-    "from": "from"
-  },
-
   "speech": {
     "vdm": "Voici une vie de merde. $$",
     "errorHttp": "Erreur lors du chargement de la blague",
