@@ -53,8 +53,9 @@ const getVdm = async (client, L, callback) => {
             callback();
         });
 
-    } catch (err) {
-        Avatar.speak(`${L.get(["speech.errorAccess"])}, ${err.message}`, client, () => {
+      } catch (err) {
+        error("VDM Error:", err.message);
+        Avatar.speak(L.get(["speech.errorAccess"]), client, () => {
             callback();
         });
     }
